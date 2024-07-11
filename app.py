@@ -22,7 +22,7 @@ def index():
     return jsonify(response)
 
 def fetch_conversion_factor(source,target):
-    url = "https://free.currconv.com/api/v7/convert?q={}_{}&compact=ultra&apiKey=9a1f3c20e42d73cd7079".format(source, target)
+    url = "https://free.currconv.com/api/v7/convert?q={}_{}&compact=ultra&apiKey=[your_api_key]".format(source, target)
     response = requests.get(url)
     response = response.json()
 
