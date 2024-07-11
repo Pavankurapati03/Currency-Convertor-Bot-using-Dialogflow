@@ -9,7 +9,6 @@ A currency converter bot developed using Dialogflow and Flask, integrated with a
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Description
@@ -69,9 +68,6 @@ If you would like to contribute to this project, please follow these guidelines:
 3. Make your changes and commit them (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 For any questions or support, please contact:
